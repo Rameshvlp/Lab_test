@@ -4,13 +4,14 @@ import 'firebase/compat/firestore';
 
 const firebaseConfig={
     
-  apiKey: "AIzaSyDGj4Gw3pucthISZ_lahzPO60gw983FvOc",
-  authDomain: "qr-registree-mad.firebaseapp.com",
-  projectId: "qr-registree-mad",
-  storageBucket: "qr-registree-mad.appspot.com",
-  messagingSenderId: "284270592487",
-  appId: "1:284270592487:web:37be55b76a6eee50483d42",
-  measurementId: "G-8R3SDTT8FK"
+  apiKey: "AIzaSyAuHK4979RnmBDV8FeupRvBFNUKeHHpcSA",
+  authDomain: "exam-90a99.firebaseapp.com",
+  databaseURL: "https://exam-90a99-default-rtdb.firebaseio.com",
+  projectId: "exam-90a99",
+  storageBucket: "exam-90a99.appspot.com",
+  messagingSenderId: "724257383977",
+  appId: "1:724257383977:web:6d7ac56732584289939e38",
+  measurementId: "G-308LZSBRHH"
 };
 
 if(!firebase.apps.length){
